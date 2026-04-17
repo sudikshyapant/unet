@@ -11,7 +11,7 @@ U-Net is a convolutional neural network designed for image segmentation. It uses
 Open and run the notebook:
 
 ```bash
-jupyter notebook unet.ipynb
+[unet.ipynb](https://github.com/sudikshyapant/unet/blob/main/unet.ipynb)
 ```
 
 ## Dataset
